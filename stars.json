@@ -1,9 +1,9 @@
 [
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 10735,
-    "open_issues_count": 282,
-    "forks_count": 446
+    "stargazers_count": 10757,
+    "open_issues_count": 275,
+    "forks_count": 447
   },
   {
     "full_name": "YashThakare/DSA_Uplift_Project",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 6062,
-    "open_issues_count": 66,
-    "forks_count": 1327
+    "stargazers_count": 6068,
+    "open_issues_count": 68,
+    "forks_count": 1330
   },
   {
     "full_name": "jina-ai/jina",
-    "stargazers_count": 13276,
+    "stargazers_count": 13298,
     "open_issues_count": 52,
-    "forks_count": 1766
+    "forks_count": 1768
   },
   {
     "full_name": "shahednasser/awesome-resources",
-    "stargazers_count": 177,
+    "stargazers_count": 180,
     "open_issues_count": 13,
-    "forks_count": 212
+    "forks_count": 211
   },
   {
     "full_name": "fireship-io/wavy-curvey-blobby-website",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 1,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "openmainframeproject-internship/resources",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "devkodeio/javascript-interview-questions",
-    "stargazers_count": 159,
-    "open_issues_count": 7,
-    "forks_count": 51
+    "stargazers_count": 168,
+    "open_issues_count": 6,
+    "forks_count": 54
   },
   {
     "full_name": "SanchitaMishra170676/To-Do-Blockchain",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 118651,
+    "stargazers_count": 118846,
     "open_issues_count": 137,
-    "forks_count": 22655
+    "forks_count": 22675
   },
   {
     "full_name": "FaisalUmair/udemy-downloader-gui",
-    "stargazers_count": 5558,
+    "stargazers_count": 5562,
     "open_issues_count": 421,
-    "forks_count": 1444
+    "forks_count": 1449
   },
   {
     "full_name": "SanchitaMishra170676/INNOGEEKS-2.0",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "chartjs/Chart.js",
-    "stargazers_count": 55980,
-    "open_issues_count": 120,
-    "forks_count": 11351
+    "stargazers_count": 56006,
+    "open_issues_count": 127,
+    "forks_count": 11355
   },
   {
     "full_name": "danba340/react-three-fiber-example",
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "kunal-kushwaha/Competitive-Programming-Resources",
-    "stargazers_count": 1738,
+    "stargazers_count": 1749,
     "open_issues_count": 2,
-    "forks_count": 561
+    "forks_count": 562
   },
   {
     "full_name": "finallyayo/pusher-code-playground",
     "stargazers_count": 20,
     "open_issues_count": 1,
-    "forks_count": 20
+    "forks_count": 19
   },
   {
     "full_name": "securingsincity/react-ace",
-    "stargazers_count": 3390,
-    "open_issues_count": 153,
-    "forks_count": 551
+    "stargazers_count": 3391,
+    "open_issues_count": 154,
+    "forks_count": 553
   },
   {
     "full_name": "kunal-kushwaha/DSA-Bootcamp-Java",
-    "stargazers_count": 6007,
-    "open_issues_count": 27,
-    "forks_count": 3265
+    "stargazers_count": 6071,
+    "open_issues_count": 31,
+    "forks_count": 3327
   },
   {
     "full_name": "sameersrivastava13/Vaccine-Tracker-App",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 40638,
+    "stargazers_count": 40699,
     "open_issues_count": 71,
-    "forks_count": 5600
+    "forks_count": 5612
   },
   {
     "full_name": "pankajkumarbij/easy-job-intern",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "avishmehta68710/linkedinBot",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "vibalijoshi/List-of-Opportunities",
     "stargazers_count": 308,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 61
   }
 ]
